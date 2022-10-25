@@ -1,0 +1,1 @@
+Monads - wrapper function to mantain complete pureness
