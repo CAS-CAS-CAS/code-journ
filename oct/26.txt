@@ -1,0 +1,2 @@
+AWS - 
+LISP - programming lang after fortran

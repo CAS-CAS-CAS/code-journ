@@ -1,0 +1,2 @@
+make a script that auto pushesthis repo  t github at say 1130 pm if there have not been any push so far (i forgot yesterday)
+learned how to spin up an ec2 instance 
