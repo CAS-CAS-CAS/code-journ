@@ -1,0 +1,8 @@
+CICD
+continouus integration ->
+
+continous development
+||
+continous deployment
+
+this project could be cicd, maybe?  auto pull function?
